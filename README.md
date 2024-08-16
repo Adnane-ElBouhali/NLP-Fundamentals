@@ -39,7 +39,7 @@ This course provides an introduction to automatic text processing, covering topi
 
 ## Usage
 
-1. Clone this repository: `git clone https://github.com/yourusername/nlp-foundations-practicals.git`
+1. Clone this repository: `git clone https://github.com/Adnane-ElBouhali/NLP-Fundamentals.git`
 2. Navigate to the desired lab directory.
 3. Install the required dependencies.
 4. Launch Jupyter Notebook: `jupyter notebook`
